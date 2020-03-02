@@ -1,4 +1,6 @@
 # supervisor-apache-ftp
 
-_Username_:yei 
-_Password_:123
+#### Credentials using username and password:
+Username: yei 
+
+Password: 123
